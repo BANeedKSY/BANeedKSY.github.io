@@ -3,12 +3,43 @@
     <title>BANeedKSY&#x27;s Portal / 蛮苦恣意の庵</title>
     <link href="https://baneedksy.github.io/feed.xml" rel="self" />
     <link href="https://baneedksy.github.io" />
-    <updated>2026-06-11T18:45:05+09:00</updated>
+    <updated>2026-06-15T07:04:35+09:00</updated>
     <author>
         <name>BANeedKSY</name>
     </author>
     <id>https://baneedksy.github.io</id>
 
+    <entry>
+        <title>2026/06/</title>
+        <author>
+            <name>BANeedKSY</name>
+        </author>
+        <link href="https://baneedksy.github.io/202606.html"/>
+        <id>https://baneedksy.github.io/202606.html</id>
+            <category term="サイト記録"/>
+
+        <updated>2026-06-15T07:04:35+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    2026/06/01　（？） baneedksy.github.io/portal をTopページとして運用開始 baneedksy.github.io/ をTopページに変更 baneedksy.wordpress.com との競合警告有 baneedksy.wordpress.com との重複扱いを避けるため、wordpressを非公開に変更
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h4>2026/06/01　（？）</h4>
+<p>baneedksy.github.io/portal をTopページとして運用開始</p>
+<figure class="post__image"><img loading="lazy"  src="https://baneedksy.github.io/media/posts/494/satikoShi-Ji-20260608.jpg" alt="" width="352" height="325" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://baneedksy.github.io/media/posts/494/responsive/satikoShi-Ji-20260608-xs.jpg 640w ,https://baneedksy.github.io/media/posts/494/responsive/satikoShi-Ji-20260608-sm.jpg 768w ,https://baneedksy.github.io/media/posts/494/responsive/satikoShi-Ji-20260608-md.jpg 1024w ,https://baneedksy.github.io/media/posts/494/responsive/satikoShi-Ji-20260608-lg.jpg 1366w ,https://baneedksy.github.io/media/posts/494/responsive/satikoShi-Ji-20260608-xl.jpg 1600w ,https://baneedksy.github.io/media/posts/494/responsive/satikoShi-Ji-20260608-2xl.jpg 1920w"></figure>
+<h4>2026/06/09</h4>
+<p>baneedksy.github.io/ をTopページに変更</p>
+<h4>2026/06/12</h4>
+<p>baneedksy.wordpress.com  との競合警告有</p>
+<h4>20206/06/14 </h4>
+<p>baneedksy.wordpress.com との重複扱いを避けるため、wordpressを非公開に変更</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>【庭いじり】草木染による公害問題について</title>
         <author>
@@ -4208,306 +4239,6 @@
 <p>ChatGPTの会話はまだ続けましたが、セーフティ規制関係の話はここまでです。</p>
 <!-- /wp:paragraph --><!-- wp:paragraph -->
 <p> </p>
-<!-- /wp:paragraph -->
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>【庭いじり】雑草の手入れ、グランドカバーの選択</title>
-        <author>
-            <name>BANeedKSY</name>
-        </author>
-        <link href="https://baneedksy.github.io/gardening-ground-cover.html"/>
-        <id>https://baneedksy.github.io/gardening-ground-cover.html</id>
-            <category term="出版As堺"/>
-            <category term="No文嬌"/>
-
-        <updated>2026-05-29T16:43:05+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    以下、AIとの対話の記録です。なお、AIが提示した画像は、権利関係が確認できませんでしたので、省いています。（掲載している画像は、私が撮影した物です。） 【私】我が家の庭の比較的日当たりがよい部分です。グランドカバーとしてダイカンドラとゴールドクレストを植えていますが、毎年、そのほかの雑草も生えてきます。今年は、この細い葉っぱの草が生えてきました。大きくなってきたものを引っこ抜いていますが、こいつは、ダイカンドラやゴールドクレストと競合しやすいでしょうか？ (2026/05/29時点：今年は早くから気温が上昇している） 結論から言うと、写真の“細い葉っぱの草”は、ダイカンドラやゴールドクレストと“競合しやすい雑草”です。 特に ダイカンドラの勢力が弱い場所では一気に広がるタイプ なので、今のように見つけ次第抜くのが正解です。 写真の草は、典型的な イネ科雑草の幼株 です。&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <!-- wp:paragraph -->
-<p>以下、AIとの対話の記録です。なお、AIが提示した画像は、権利関係が確認できませんでしたので、省いています。（掲載している画像は、私が撮影した物です。）</p>
-<!-- /wp:paragraph -->
-<p> </p>
-<!-- wp:separator --><hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator -->
-<p> </p>
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|medium-blue"}}}},"textColor":"medium-blue"} -->
-<p class="has-medium-blue-color has-text-color has-link-color">【私】我が家の庭の比較的日当たりがよい部分です。グランドカバーとしてダイカンドラとゴールドクレストを植えていますが、毎年、そのほかの雑草も生えてきます。今年は、この細い葉っぱの草が生えてきました。大きくなってきたものを引っこ抜いていますが、こいつは、ダイカンドラやゴールドクレストと競合しやすいでしょうか？</p>
-<!-- /wp:paragraph -->
-<p> </p>
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|medium-blue"}}}},"textColor":"medium-blue"} -->
-<p class="has-medium-blue-color has-text-color has-link-color">(2026/05/29時点：今年は早くから気温が上昇している）</p>
-<!-- /wp:paragraph -->
-<p> </p>
-<!-- wp:image {"id":1006,"width":"529px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large is-resized"><figure class="wp-image-1006"><img loading="lazy"  style="width: 529px; height: auto;" src="https://baneedksy.github.io/media/posts/471/grass.jpg" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://baneedksy.github.io/media/posts/471/responsive/grass-xs.jpg 640w ,https://baneedksy.github.io/media/posts/471/responsive/grass-sm.jpg 768w ,https://baneedksy.github.io/media/posts/471/responsive/grass-md.jpg 1024w ,https://baneedksy.github.io/media/posts/471/responsive/grass-lg.jpg 1366w ,https://baneedksy.github.io/media/posts/471/responsive/grass-xl.jpg 1600w ,https://baneedksy.github.io/media/posts/471/responsive/grass-2xl.jpg 1920w"></figure></figure>
-<!-- /wp:image -->
-<p> </p>
-<!-- wp:quote -->
-<p> </p>
-<!-- /wp:quote -->
-<p> </p>
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>結論から言うと、<strong>写真の“細い葉っぱの草”は、ダイカンドラやゴールドクレストと“競合しやすい雑草”です。</strong><br>特に <strong>ダイカンドラの勢力が弱い場所では一気に広がるタイプ</strong> なので、今のように見つけ次第抜くのが正解です。</p>
-<!-- /wp:paragraph --> <!-- wp:separator --><hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator --> <!-- wp:heading -->
-<h2 class="wp-block-heading">🌿 この細い草の正体（写真から判断できる範囲）</h2>
-<!-- /wp:heading --> <!-- wp:paragraph -->
-<p>写真の草は、典型的な <strong>イネ科雑草の幼株</strong> です。</p>
-<!-- /wp:paragraph --> <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>葉が細い</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>地際からまっすぐ立ち上がる</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>群生しやすい</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>引き抜くと根が白くて細い</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --> <!-- wp:paragraph -->
-<p>イネ科雑草は種類が多いですが、性質はほぼ共通しています。</p>
-<!-- /wp:paragraph --> <!-- wp:separator --><hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator --> <!-- wp:heading -->
-<h2 class="wp-block-heading">🌱 <strong>ダイカンドラとの相性 → 競合しやすい（要注意）</strong></h2>
-<!-- /wp:heading --> <!-- wp:paragraph -->
-<p>ダイカンドラは</p>
-<!-- /wp:paragraph --> <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>根が浅い</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>葉が地面に密着</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>乾燥に弱い</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>生育スピードは“普通”</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --> <!-- wp:paragraph -->
-<p>一方、イネ科雑草は</p>
-<!-- /wp:paragraph --> <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>根が深く張る</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>成長が早い</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>光を奪う</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>水分も奪う</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --> <!-- wp:paragraph -->
-<p>→ <strong>ダイカンドラが負けやすい組み合わせ</strong>。</p>
-<!-- /wp:paragraph --> <!-- wp:paragraph -->
-<p>特に日当たりの良い場所では、<br>イネ科雑草の方が圧倒的に強いです。</p>
-<!-- /wp:paragraph --> <!-- wp:separator --><hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator --> <!-- wp:heading -->
-<h2 class="wp-block-heading">🌲 <strong>ゴールドクレストとの相性 → ほぼ問題なし</strong></h2>
-<!-- /wp:heading --> <!-- wp:paragraph -->
-<p>ゴールドクレストは</p>
-<!-- /wp:paragraph --> <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>根が深い</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>樹木なので雑草に負けない</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>多少の雑草は気にしない</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --> <!-- wp:paragraph -->
-<p>→ <strong>ゴールドクレストは影響を受けません。</strong></p>
-<!-- /wp:paragraph --> <!-- wp:paragraph -->
-<p>問題はあくまで <strong>ダイカンドラ側</strong>。</p>
-<!-- /wp:paragraph --> <!-- wp:separator --><hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator --> <!-- wp:heading -->
-<h2 class="wp-block-heading">🌼 <strong>放置するとどうなる？</strong></h2>
-<!-- /wp:heading --> <!-- wp:paragraph -->
-<p>イネ科雑草は</p>
-<!-- /wp:paragraph --> <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>夏に一気に背が伸びる</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>タネを大量に落とす</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>翌年さらに増える</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --> <!-- wp:paragraph -->
-<p>ダイカンドラの上に覆いかぶさるように伸びるので、<br><strong>地面が“草だらけ”になり、ダイカンドラが消える</strong>可能性があります。</p>
-<!-- /wp:paragraph --> <!-- wp:separator --><hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator --> <!-- wp:heading -->
-<h2 class="wp-block-heading">🌟 <strong>結論：今の対応（見つけ次第抜く）が最適</strong></h2>
-<!-- /wp:heading --> <!-- wp:paragraph -->
-<p>あなたがやっている<br><strong>「大きくなったら抜く」</strong><br>は、まさに正しい管理です。</p>
-<!-- /wp:paragraph --> <!-- wp:paragraph -->
-<p>さらに効果を上げるなら：</p>
-<!-- /wp:paragraph --> <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>小さいうちに抜く</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>根元をつまんで“スッ”と抜く</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>雨上がり or 水やり後が抜きやすい</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --> <!-- wp:paragraph -->
-<p>これでダイカンドラの勢力を守れます。</p>
-<!-- /wp:paragraph --> <!-- wp:separator --><hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator --> <!-- wp:heading -->
-<h2 class="wp-block-heading">🔧 <strong>ダイカンドラを守る追加テクニック</strong></h2>
-<!-- /wp:heading --> <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>薄くバークチップ（またはローズマリー枝）を敷く</strong><br>→ イネ科雑草の発芽を抑える</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li><strong>ダイカンドラを少し追い植えする</strong><br>→ 密度が上がると雑草が生えにくい</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li><strong>水やりは朝だけ</strong><br>→ ダイカンドラが強くなる</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --> <!-- wp:separator --><hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator --> <!-- wp:heading -->
-<h2 class="wp-block-heading">🔗 関連して役立つ選択肢</h2>
-<!-- /wp:heading --> <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>ダイカンドラを密に育てるコツ</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>イネ科雑草を減らす方法</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>グランドカバーの競合対策</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --> <!-- wp:separator --><hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator --> <!-- wp:paragraph -->
-<p>必要なら、<br><strong>「この雑草を完全に減らすための年間管理プラン」</strong><br>も作れます。</p>
-<!-- /wp:paragraph --></blockquote>
-<!-- /wp:quote -->
-<p> </p>
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|medium-blue"}}}},"textColor":"medium-blue"} -->
-<p class="has-medium-blue-color has-text-color has-link-color">実は、ダイカンドラは種をまいてからもう、5年を経過していますが思ったほど密度が高くないので、ベストなグランドカバーではないような気がしています。</p>
-<!-- /wp:paragraph -->
-<p> </p>
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|medium-blue"}}}},"textColor":"medium-blue"} -->
-<p class="has-medium-blue-color has-text-color has-link-color">ダイカンドラはこのまま放置して、タイムのようなものに徐々に切り替えようかと考えています。</p>
-<!-- /wp:paragraph -->
-<p> </p>
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>結論から言うと、<strong>ダイカンドラが5年経っても密にならないなら、“あなたの庭の日当たり条件ではダイカンドラはベストではない”</strong>という判断は正しいです。<br>そして、<strong>徐々にタイム系（クリーピングタイムなど）へ切り替える作戦は非常に理にかなっています。</strong></p>
-<!-- /wp:paragraph --> <!-- wp:separator --><hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator --> <!-- wp:heading {"level":1} -->
-<h1 class="wp-block-heading">🌿 なぜダイカンドラが密にならないのか（あなたの庭の条件で起きやすい理由）</h1>
-<!-- /wp:heading --> <!-- wp:paragraph -->
-<p>あなたの庭の「比較的日当たりが良い場所」では、ダイカンドラは次の理由で弱くなりがちです。</p>
-<!-- /wp:paragraph --> <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>強い日差しに弱い（半日陰向き）</strong></li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li><strong>乾燥に弱い</strong></li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li><strong>イネ科雑草に負けやすい</strong></li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li><strong>踏圧に弱い（踏まれると密度が落ちる）</strong></li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li><strong>夏の高温で勢力が落ちる</strong></li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --> <!-- wp:paragraph -->
-<p>5年経っても密にならないのは、<br><strong>環境がダイカンドラの“適地ではない”</strong>というサインです。</p>
-<!-- /wp:paragraph --> <!-- wp:separator --><hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator --> <!-- wp:heading {"level":1} -->
-<h1 class="wp-block-heading">🌱 タイム系に切り替えるのは“正解寄りの選択”</h1>
-<!-- /wp:heading --> <!-- wp:paragraph -->
-<p>タイム（特にクリーピングタイム）は、あなたの庭の条件に合っています。</p>
-<!-- /wp:paragraph --> <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">✔ 日当たりに強い</h3>
-<!-- /wp:heading --> <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">✔ 乾燥に強い</h3>
-<!-- /wp:heading --> <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">✔ 踏まれても平気</h3>
-<!-- /wp:heading --> <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">✔ 密に広がる</h3>
-<!-- /wp:heading --> <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">✔ 雑草を抑える</h3>
-<!-- /wp:heading --> <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">✔ 香りが良い</h3>
-<!-- /wp:heading --> <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">✔ 見た目が明るい</h3>
-<!-- /wp:heading --> <!-- wp:paragraph -->
-<p>ダイカンドラの弱点をすべて補ってくれる植物です。</p>
-<!-- /wp:paragraph --> <!-- wp:separator --><hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator --> <!-- wp:heading {"level":1} -->
-<h1 class="wp-block-heading">🌼 徐々に切り替える方法（最も失敗しないやり方）</h1>
-<!-- /wp:heading --> <!-- wp:heading -->
-<h2 class="wp-block-heading">① <strong>今のダイカンドラは“そのまま放置”でOK</strong></h2>
-<!-- /wp:heading --> <!-- wp:paragraph -->
-<p>無理に剥がす必要はありません。<br>ダイカンドラは弱いので、タイムが広がれば自然に負けていきます。</p>
-<!-- /wp:paragraph --> <!-- wp:heading -->
-<h2 class="wp-block-heading">② <strong>タイムを“点植え”する</strong></h2>
-<!-- /wp:heading --> <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>30〜40cm間隔で植える</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>1株が半年〜1年で直径30cm以上に広がる</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>2年で地面をほぼ覆う</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --> <!-- wp:heading -->
-<h2 class="wp-block-heading">③ <strong>イネ科雑草は引き続き早めに抜く</strong></h2>
-<!-- /wp:heading --> <!-- wp:paragraph -->
-<p>タイムが広がるまでの間は、雑草が勢力を伸ばしやすい。</p>
-<!-- /wp:paragraph --> <!-- wp:heading -->
-<h2 class="wp-block-heading">④ <strong>土はそのままでOK（改良不要）</strong></h2>
-<!-- /wp:heading --> <!-- wp:paragraph -->
-<p>タイムは土質を選ばないので、<br>今の庭土のままで十分育ちます。</p>
-<!-- /wp:paragraph --> <!-- wp:separator --><hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator --> <!-- wp:heading {"level":1} -->
-<h1 class="wp-block-heading">🌳 タイムに切り替えるとどうなるか（1〜3年の変化）</h1>
-<!-- /wp:heading --> <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">● 1年目</h3>
-<!-- /wp:heading --> <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>タイムが点々と広がる</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>ダイカンドラは現状維持</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>雑草はまだ出る</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --> <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">● 2年目</h3>
-<!-- /wp:heading --> <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>タイムが地面の半分以上を覆う</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>ダイカンドラは勢力が落ちる</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>雑草が減る</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --> <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">● 3年目</h3>
-<!-- /wp:heading --> <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>タイムがほぼ全面を覆う</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>ダイカンドラは“残っても少し”</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>雑草は激減</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --> <!-- wp:paragraph -->
-<p>→ <strong>最終的に、管理が圧倒的に楽な庭になる</strong></p>
-<!-- /wp:paragraph --> <!-- wp:separator --><hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator --> <!-- wp:heading {"level":1} -->
-<h1 class="wp-block-heading">🌟 結論</h1>
-<!-- /wp:heading --> <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>ダイカンドラが密にならないのは“環境が合っていない”サイン</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>タイム系への切り替えは非常に良い選択</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>ダイカンドラは放置でOK（自然に負けていく）</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>タイムを点植えして徐々に置き換えるのが最も成功率が高い</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --> <!-- wp:separator --><hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator --> <!-- wp:heading -->
-<h2 class="wp-block-heading">🔗 次に役立つ選択肢</h2>
-<!-- /wp:heading --> <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>クリーピングタイムの植え付け時期</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>タイムを早く広げるコツ</li>
-<!-- /wp:list-item --> <!-- wp:list-item -->
-<li>ダイカンドラからの切り替え手順</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --> <!-- wp:paragraph -->
-<p>必要なら、<br><strong>あなたの庭の写真をもとに「どこに何株植えると最も美しく広がるか」まで具体的に提案できます。</strong></p>
-<!-- /wp:paragraph --> <!-- wp:separator --><hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator --></blockquote>
-<!-- /wp:quote -->
-<p> </p>
-<!-- wp:paragraph -->
-<p>（現状の日当たりのよい場所のグランドカバーについての対話はここまでです。）</p>
 <!-- /wp:paragraph -->
             ]]>
         </content>
