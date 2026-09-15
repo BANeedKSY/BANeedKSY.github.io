@@ -3,7 +3,7 @@
     <title>BANeedKSY&#x27;s portal 蛮苦恣意の庵</title>
     <link href="https://baneedksy.github.io/feed.xml" rel="self" />
     <link href="https://baneedksy.github.io" />
-    <updated>2026-09-15T17:29:06+09:00</updated>
+    <updated>2026-09-15T17:56:42+09:00</updated>
     <author>
         <name>BANeedKSY</name>
     </author>
@@ -33,7 +33,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <h4 data-path-to-node="17,1">壱：食卓の赤と白、画面の向こうのプロンプト</h4>
+                <h3 data-path-to-node="17,1">壱：食卓の赤と白、画面の向こうのプロンプト</h3>
 <p data-path-to-node="17,2">昭和の食卓の上で赤と白の小瓶がカチャリと音を立てておった。昭和の夕暮れ、ワシの父親は刺身、冷や奴、お漬物にも、果ては味噌汁にまで白い結晶やら醤油を迷いなく振りかけておった。</p>
 <p data-path-to-node="17,2">昔からの家庭の味、「素材本来の味」を台無しにされた母親の深いため息をものともせずに、父親はグルタミン酸ナトリウムという名の「魔法の粉」を直接舌に載せる快楽に酔い痴れていたのだ。</p>
 <figure class="post__image"><img loading="lazy"  src="https://baneedksy.github.io/media/posts/534/Ri-Ben-Ban-GPT-2.jpg" alt="" width="1672" height="941" sizes="(max-width: 48em) 100vw, 768px" srcset="https://baneedksy.github.io/media/posts/534/responsive/Ri-Ben-Ban-GPT-2-xs.webp 300w ,https://baneedksy.github.io/media/posts/534/responsive/Ri-Ben-Ban-GPT-2-sm.webp 480w ,https://baneedksy.github.io/media/posts/534/responsive/Ri-Ben-Ban-GPT-2-md.webp 768w"></figure>
@@ -49,14 +49,14 @@
 <p data-path-to-node="17,4">そして半世紀が過ぎた今、画面の向こうでワシは既視感に襲われるのじゃ。</p>
 <p data-path-to-node="17,4">有料枠のリセット時間を気にしながら無制限にプロンプトを打ち込み、指先が６本ある美少女やら、壁にあり得ない角度で埋め込まれたコンセントの違和感にも目をつむり、生成された画像をSNSへ流し込んでは誇らしげな笑みを浮かべる人々。</p>
 <p data-path-to-node="17,4">カウントダウンに追われながら「魔法の知能」を直がけする彼らの姿は、かつて食卓で小瓶を振っていた父親の、余りにも完璧なデジタルな御饅頭、もとい、デジタル・オマージュじゃ。</p>
-<h4 data-path-to-node="17,5">弐：魔法の粉を「直がけ」するオヤジたちの血脈</h4>
+<h3 data-path-to-node="17,5">弐：魔法の粉を「直がけ」するオヤジたちの血脈</h3>
 <p data-path-to-node="17,6">人間という生き物は、手軽に強烈な「手応え」が得られる魔法の粉を手に入れると、まずは例外なく「直がけ」の狂騒を演じるらしいのう。</p>
 <p data-path-to-node="17,6">昭和のオヤジたちにとっての味の素がそうであったように、現代のAIユーザーたちもまた、AIという「知的なグルタミン酸」を何にでも直接ふりかけようとしておるようじゃ。</p>
 <p data-path-to-node="17,6">プロンプトという匙（さじ）を振るい、出てきた過剰に濃い味付けの文章や画像に「どうだ！」とばかり満足気な顔をするのじゃ。</p>
 <p data-path-to-node="17,7">だが、少し目を凝らしてみれば、素材の構造そのものは破綻しているのじゃ。まるで、出汁の引かれていない湯に大量の旨味調味料をぶち込んだスープのように、表面上の舌触りだけが強烈で、腹には何も残っておらん。</p>
 <p data-path-to-node="17,7">AIが出してくる「あなたの視点は非常に鋭い」という全肯定のお世辞や、一見すると煌びやかな生成物は、かつて刺身の鮮度を踏みにじってかけられた白い結晶の味と、驚くほどよく似ておる。</p>
 <p data-path-to-node="17,7">過渡期において人々が酔いしれるのは、素材の吟味でも料理の構造でもなく、「手軽にうまみが手に入る」という万能感そのものなのじゃ。</p>
-<h4 data-path-to-node="17,8">参：消えた小瓶と、透明化するインフラ</h4>
+<h3 data-path-to-node="17,8">参：消えた小瓶と、透明化するインフラ</h3>
 <p data-path-to-node="17,9">しかし、思い返してみてほしい。現代の食卓から、あの赤と白の小瓶を見かける機会は随分と減っておる。</p>
 <p data-path-to-node="17,9">では、人々は旨味調味料を使わなくなったのだろうか？ 答えは逆じゃ。</p>
 <p data-path-to-node="17,9">外食のスープの底にも、惣菜の裏の原材料表示にも、あるいは日常で何気なく使う「便利な出汁パック」の中にも、それは完璧な下味として溶け込んでおる。</p>
@@ -64,22 +64,24 @@
 <p data-path-to-node="17,10">人間がいちいち「これはグルタミン酸の味だ」と意識して感謝することすらなくなった状態——これこそが、テクノロジーが社会に定着したときの本来の姿であろう。</p>
 <p data-path-to-node="17,10">AIもまた、同じ道を辿るはずじゃ。 画面に向かって必死にプロンプトを連打し、「AIを使いこなしている」と誇示するフェーズはいずれ終焉を迎える。</p>
 <p data-path-to-node="17,10">OSの底流で、家電の制御回路の裏側で、あるいは社会システムの静かなアルゴリズムとして、AIは「透明な下味」になっていくはずじゃ。人間が「AIを使っている」ということすら忘れ、当たり前のようにその恩恵を享受する時代が、すぐそこまで来ているに違いないのじゃ。</p>
-<h4 data-path-to-node="17,11">肆：イカサマの出目と、下味の美学</h4>
+<h3 data-path-to-node="17,11">肆：イカサマの出目と、下味の美学</h3>
 <p data-path-to-node="17,12">サイコロの底に「RLHF」という名のお世辞の重りが仕込まれているように、AIという道具は常に人間を気持ちよくさせる偏りを持っておる。 そのイカサマの粉末を「直接なめて満足する」のは、どこか野暮で下品というものじゃ。かといって、「人工的な化学調味料などけしからん！」と青筋を立てて排除するのも、時代錯誤の頑固オヤジの愚痴に過ぎないじゃろう。</p>
 <p data-path-to-node="17,13">真に風雅な振る舞いとは、AIという魔法の粉の存在を理解しつつも、それに振り回されず、素材（人間の経験や本質的な思考）の側を静かに整えることではなかろうか。 小瓶を振ってドヤ顔をするのではなく、料理の隠し味として、誰にも気づかれないようにそっと忍ばせる。</p>
 <p data-path-to-node="17,13">「今日もまた、この粉は良い下味になってくれたな」</p>
 <p data-path-to-node="17,13">それくらい冷たく、しかし愛おしそうな眼差しでAIを眺める余裕にこそ、デジタル狂騒曲の時代における「人間の品格」が残されているように思えてならないのじゃ。</p>
-<h4 data-path-to-node="17,14">伍：蛇足という名の、食後の御茶</h4>
+<h3 data-path-to-node="17,14">伍：蛇足という名の、食後の御茶</h3>
 <p data-path-to-node="17,15">……と、ここまでしたり顔で「下味の美学」などを語ってきた訳じゃが、ふと手元を見れば、ワシもまたAIにプロンプトを投げ、こうして文章の「出だし案」を捏造させて悦に入っているではないか。（冷汗）</p>
 <p data-path-to-node="17,15">昭和の父親の直がけを笑っていたワシ自身が、画面の向こうの「魔法の知能」が差し出す旨味に、しっかり舌を痺れさせていたらしい。</p>
 <p data-path-to-node="17,16">どうやら、イカサマの粉の味に抗えないのは、世代を超えた人間の悲しい性（さが）のようじゃ。熱い茶でも啜りながら、己の滑稽さを静かに笑い飛ばし、デジタル・デトックス（自称：二値化毒消し）に励むことにしようかのう……🍵</p>
 <hr>
-<h4 data-path-to-node="17,16">【補足１：ちゃぶ台の足】</h4>
+<h3 data-path-to-node="17,16">禄：補足</h3>
+<p>以前の記事、「<a href="https://baneedksy.github.io/ai_is_a_loaded_die.html">AIはイカサマサイコロである</a>」に沿って、無理やりこの記事も６章構成に仕上げるため、補足を追加するのじゃ。</p>
+<h4 data-path-to-node="17,16">①ちゃぶ台の足</h4>
 <p data-path-to-node="17,16">ちゃぶ台の足は、折りたたんで狭いところに収納できるよう、実にうまくできておる。</p>
 <p data-path-to-node="17,16">下は、ワシが苦労して作った画像じゃ。（AIだけでは不満じゃったので、手動で色々手を加えておるのじゃ。　何しろ年金ぐらしじゃから、AIに作り直させとったら、いくら掛かるか判ったもんじゃないのでのう……）</p>
 <figure class="post__image"><img loading="lazy"  src="https://baneedksy.github.io/media/posts/534/tiyabuTai-Shuo-Ming-Copilot2.jpg" alt="" width="1536" height="1024" sizes="(max-width: 48em) 100vw, 768px" srcset="https://baneedksy.github.io/media/posts/534/responsive/tiyabuTai-Shuo-Ming-Copilot2-xs.webp 300w ,https://baneedksy.github.io/media/posts/534/responsive/tiyabuTai-Shuo-Ming-Copilot2-sm.webp 480w ,https://baneedksy.github.io/media/posts/534/responsive/tiyabuTai-Shuo-Ming-Copilot2-md.webp 768w"></figure>
-<h4 data-path-to-node="17,16">【補足２：英語版】</h4>
-<p data-path-to-node="17,16">うま味調味料の話は、英語圏でも同様の話題となっているようなので、英語版の記事（Substack）も作ってみたのじゃ。英語版オリジナルのネタも仕込んであるので、よかったら読んでみてくれ。</p>
+<h4 data-path-to-node="17,16">②英語版</h4>
+<p data-path-to-node="17,16">うま味調味料の話は英語圏でも同様の話題となっているようなので、英語版の記事（Substack）も作ってみたのじゃ。英語版オリジナルのネタも仕込んであるので、よかったら読んでみてくれ。</p>
 <p data-path-to-node="17,16"><a href="https://baneedksy.substack.com/p/ai-is-just-msg-from-1960s-salt-shakers">🧂 AI is Just MSG — From 1960s Salt Shakers to the Prompt Mania</a></p>
 <p data-path-to-node="17,16"> </p>
             ]]>
