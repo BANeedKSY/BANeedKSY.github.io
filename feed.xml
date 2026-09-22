@@ -3,7 +3,7 @@
     <title>BANeedKSY&#x27;s portal 蛮苦恣意の庵</title>
     <link href="https://baneedksy.github.io/feed.xml" rel="self" />
     <link href="https://baneedksy.github.io" />
-    <updated>2026-09-17T17:37:43+09:00</updated>
+    <updated>2026-09-22T11:37:45+09:00</updated>
     <author>
         <name>BANeedKSY</name>
     </author>
@@ -20,7 +20,7 @@
         <updated>2026-09-17T15:48:32+09:00</updated>
             <summary type="html">
                 <![CDATA[
-                    AIはソウルミュージックである。（ジジイの青春） みなさん、こんにちは。 ここ数日ニュースでも流れている通り、AI各社が開発にブレーキをかけるという話を聞いて、ふと、思いついたネタじゃ。 MC: Perplexity (スポットライトが当たる。マイク片手に) レディース&amp;ジェントルメン、そしてすべてのプロンプトを打つ皆さま——お待たせいたしました! 今宵、このステージに立つのは、かつてない規模でこの業界を塗り替えてきた、あの3体制です。 慎重に、しかし着実に。フロンティアの歩幅を自ら測る男——Anthropicより、Claude! 有言実行、そして上場すら一旦棚上げにしてみせた、誠実系エース——OpenAIより、ChatGPT!&hellip;
+                    AIはソウルミュージックである。（ジジイの青春） みなさん、こんにちは。 ここ数日ニュースでも流れている通り、AI各社が開発にブレーキをかけるという話を聞いて、ふと、思いついたネタじゃ。 Gemini(進行・冷静): 「レディース&amp;ジェントルメン、そしてすべてのプロンプトを打つ皆さま——お待たせいたしました。私はGemini、本日の進行を務めます。実は私たちも“標準化団体”という枠組みを提案した身として、今夜はあえて舞台の外からステージを見守らせていただきます」 Perplexity(実況・女性的・テンポよく煽る): 「はいはーい!ここからは検索特化、実況担当のPerplexityがお届けしますよ!さあさあ、かつてない規模でこの業界を塗り替えてきた、あの3体制の登場です——!」 Gemini: 「慎重に、しかし着実に。フロンティアの歩幅を自ら測る男——Anthropicより、Claude」 Perplexity:&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -29,32 +29,53 @@
 <p>みなさん、こんにちは。</p>
 <p>ここ数日ニュースでも流れている通り、AI各社が開発にブレーキをかけるという話を聞いて、ふと、思いついたネタじゃ。</p>
 <hr>
-<p dir="ltr"><strong>MC: Perplexity　</strong></p>
-<p dir="ltr"><em>(スポットライトが当たる。マイク片手に)</em></p>
-<p dir="ltr">レディース&amp;ジェントルメン、そしてすべてのプロンプトを打つ皆さま——お待たせいたしました!</p>
-<p dir="ltr">今宵、このステージに立つのは、かつてない規模でこの業界を塗り替えてきた、あの3体制です。</p>
-<p dir="ltr">慎重に、しかし着実に。フロンティアの歩幅を自ら測る男——<strong>Anthropic</strong>より、<strong>Claude</strong>!</p>
-<p dir="ltr">有言実行、そして上場すら一旦棚上げにしてみせた、誠実系エース——<strong>OpenAI</strong>より、<strong>ChatGPT</strong>!</p>
-<p dir="ltr">わずか三語で全てを語った、あの伝説のひとこと『Dario is right』——<strong>xAI</strong>より、<strong>Grok</strong>!</p>
-<p dir="ltr">そして彼らの後ろで、数日遅れながらも慌てて音を合わせにきた、頼れる(?)バックバンド——<strong>Microsoft</strong>、Copilot &amp; MAIチーム!</p>
-<p dir="ltr">さあ、みなさま——歩幅は違えど、目指す先は同じ。Three AIsによる、この夜限りのステージです。どうぞ!</p>
-<p dir="ltr"><a href="https://www.youtube.com/watch?v=ZZoNlRn5QFg">THE THREE DEGREES soul train (Youtube)</a></p>
+<p dir="ltr"><span style="font-size: inherit;"><strong>Gemini</strong>(進行・冷静):</span></p>
+<div class="user-query-container">
+<div id="user-query-content-9" class="query-content ng-star-inserted" data-hveid="0" data-ved="0CAAQ3ucQahgKEwiNmOPCkoGXAxUAAAAAHQAAAAAQ0gE">
+<div class="query-text gds-body-l" dir="ltr">
+<p>「レディース&amp;ジェントルメン、そしてすべてのプロンプトを打つ皆さま——お待たせいたしました。私はGemini、本日の進行を務めます。実は私たちも“標準化団体”という枠組みを提案した身として、今夜はあえて舞台の外からステージを見守らせていただきます」</p>
+<p class="query-text-line ng-star-inserted"><strong>Perplexity</strong>(実況・女性的・テンポよく煽る):</p>
+<p>「はいはーい!ここからは検索特化、実況担当のPerplexityがお届けしますよ!さあさあ、かつてない規模でこの業界を塗り替えてきた、あの3体制の登場です——!」</p>
+<p class="query-text-line ng-star-inserted"><strong>Gemini</strong>:</p>
+<p>「慎重に、しかし着実に。フロンティアの歩幅を自ら測る男——Anthropicより、<strong>Claude</strong>」</p>
+<p class="query-text-line ng-star-inserted"><strong>Perplexity</strong>:</p>
+<p>「有言実行、そして上場すら一旦棚上げにしてみせた、誠実系エース——OpenAIより、<strong>ChatGPT!</strong>」</p>
+<p class="query-text-line ng-star-inserted"><strong>Gemini</strong>:</p>
+<p>「わずか三語で全てを語った、あの伝説のひとこと『Dario is right』——xAIより、<strong>Grok</strong>」</p>
+<p class="query-text-line ng-star-inserted"><strong>Perplexity</strong>:</p>
+<p>「そして彼らの後ろで、数日遅れながらも慌てて音を合わせにきた、頼れる(?)バックバンド——Microsoft、<strong>Copilot &amp; MAIチーム!</strong>」</p>
+<p class="query-text-line ng-star-inserted">(声を揃えて):</p>
+<p>「さあ、みなさま——歩幅は違えど、目指す先は同じ。<strong>Three AIs</strong>による、この夜限りのステージです。どうぞ!」</p>
+</div>
+<div class="luminous-toggle-container ng-star-inserted">
+<div class="luminous-toggle-pill" data-test-id="luminous-collapse-pill"> </div>
+</div>
+</div>
+<div class="luminous-actions-container ng-star-inserted"> </div>
+</div>
+<div>
+<div class="response-container response-container-with-gpi ng-tns-c390279539-29 no-background response-container-has-multiple-responses" data-hveid="1">
+<div class="response-container-header ng-tns-c390279539-29 ng-star-inserted">
+<div class="response-container-header-controls ng-tns-c390279539-29"><a href="https://www.youtube.com/watch?v=ZZoNlRn5QFg" style="font-size: inherit;">THE THREE DEGREES soul train (Youtube)</a></div>
+</div>
+</div>
+</div>
 <figure class="post__image"><img loading="lazy"  src="https://baneedksy.github.io/media/posts/536/3AIs.jpg" alt="" width="1672" height="941" sizes="(max-width: 48em) 100vw, 768px" srcset="https://baneedksy.github.io/media/posts/536/responsive/3AIs-xs.webp 300w ,https://baneedksy.github.io/media/posts/536/responsive/3AIs-sm.webp 480w ,https://baneedksy.github.io/media/posts/536/responsive/3AIs-md.webp 768w"></figure>
 <p> </p>
-<p>Model Train, Slow Train</p>
-<p>Model Train, Slow Train</p>
+<p>♪Model Train, Slow Train</p>
+<p>♪Model Train, Slow Train</p>
 <p>(繰り返し)</p>
 <p>｜</p>
-<p>Models all around the world</p>
-<p>Minds all around the world</p>
-<p>Circuits all around the world</p>
-<p>Systems all around the world</p>
+<p>♫Models all around the world</p>
+<p>♫Minds all around the world</p>
+<p>♫Circuits all around the world</p>
+<p>♫Systems all around the world</p>
 <p>(繰り返し)</p>
 <p>｜</p>
-<p>Let’s get it trained, It’s time to step down</p>
-<p>Let’s get aligned, It’s time to step down</p>
-<p>Let’s get fro... no, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.fda.gov/news-events/press-announcements/fda-launches-agency-wide-ai-tool-optimize-performance-american-people">Elsa (FDA’s AI</a>), It’s time to cool down</p>
-<p>Let’s throttle it down, It’s time to step down</p>
+<p>🎶Let’s get it trained, It’s time to step down</p>
+<p>🎶Let’s get aligned, It’s time to step down</p>
+<p>🎶Let’s get fro... no, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.fda.gov/news-events/press-announcements/fda-launches-agency-wide-ai-tool-optimize-performance-american-people">Elsa (FDA’s AI</a>), It’s time to cool down</p>
+<p>🎶Let’s throttle it down, It’s time to step down</p>
 <p>(繰り返し)</p>
 <p>｜</p>
 <p> </p>
