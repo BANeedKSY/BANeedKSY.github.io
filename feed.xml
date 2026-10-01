@@ -3,14 +3,14 @@
     <title>BANeedKSY&#x27;s portal 蛮苦恣意の庵</title>
     <link href="https://baneedksy.github.io/feed.xml" rel="self" />
     <link href="https://baneedksy.github.io" />
-    <updated>2026-10-02T08:17:39+09:00</updated>
+    <updated>2026-10-02T08:25:59+09:00</updated>
     <author>
         <name>BANeedKSY</name>
     </author>
     <id>https://baneedksy.github.io</id>
 
     <entry>
-        <title>**AIは大…もとい、話題じゃ。踏ん張って、もとい、振り絞ってみた 〜便秘予防の川柳と狂歌〜** _AI Is Number Two... I Mean, the Number One Topic!_</title>
+        <title>AIは大…もとい、話題じゃ。踏ん張って、もとい、振り絞ってみた 〜便秘予防の川柳と狂歌〜 _AI Is Number Two... I Mean, the Number One Topic!_</title>
         <author>
             <name>BANeedKSY</name>
         </author>
@@ -28,7 +28,7 @@
         <content type="html">
             <![CDATA[
                 <p><!-- obsidian --></p>
-<h4 data-heading="導入 / Introduction">導入 / Introduction</h4>
+<h3 data-heading="導入 / Introduction">導入 / Introduction</h3>
 <p>よう皆の衆、元気でやっておるかのう。</p>
 <p>Hey, folks! How have you been?</p>
 <p>今日の与太話は、下の話の続きじゃ。</p>
@@ -42,7 +42,7 @@
 <p>幸いワシは、それなりのリズムをつかめておるが、世の中には悩んでおられる方も多いと聞く。そこで、そんな方々のお役に立つかもしれんと、ネタを踏ん張って、もとい、振り絞ってみたのじゃ。</p>
 <p>Luckily, I've found a fairly steady rhythm. But I hear plenty of people are struggling. So, hoping to help, I strained... I mean, I racked my brain for a few verses.</p>
 <hr>
-<h4 data-heading="◆ 川柳の部 / Senryu (short poems)">◆ 川柳の部 / Senryu (short poems)</h4>
+<h3 data-heading="◆ 川柳の部 / Senryu (short poems)">◆ 川柳の部 / Senryu (short poems)</h3>
 <p><strong>1. レンチンの 待ち時間こそ スクワット</strong><br>Microwave running—<br>those few minutes of waiting<br>are perfect for squats.</p>
 <figure class="post__image"><img loading="lazy"  src="https://baneedksy.github.io/media/posts/542/P1.jpg" alt="" width="1536" height="1024" sizes="(max-width: 48em) 100vw, 768px" srcset="https://baneedksy.github.io/media/posts/542/responsive/P1-xs.webp 300w ,https://baneedksy.github.io/media/posts/542/responsive/P1-sm.webp 480w ,https://baneedksy.github.io/media/posts/542/responsive/P1-md.webp 768w"></figure>
 <p><strong>2. ロボ任せ 楽の代わりに 腸詰まる</strong><br>Let the robot do it—<br>the price of the easy life:<br>a backed-up gut.</p>
@@ -53,7 +53,7 @@
 <p><strong>4. 物干しの 背伸びしゃがみが 腸の友</strong><br>Reach up, bend down,<br>hanging the laundry:<br>your gut's best friend.</p>
 <figure class="post__image"><img loading="lazy"  src="https://baneedksy.github.io/media/posts/542/P4.jpg" alt="" width="1536" height="1024" sizes="(max-width: 48em) 100vw, 768px" srcset="https://baneedksy.github.io/media/posts/542/responsive/P4-xs.webp 300w ,https://baneedksy.github.io/media/posts/542/responsive/P4-sm.webp 480w ,https://baneedksy.github.io/media/posts/542/responsive/P4-md.webp 768w"></figure>
 <hr>
-<h4 data-heading="◆ 狂歌の部 / Kyoka (comic tanka)">◆ 狂歌の部 / Kyoka (comic tanka)</h4>
+<h3 data-heading="◆ 狂歌の部 / Kyoka (comic tanka)">◆ 狂歌の部 / Kyoka (comic tanka)</h3>
 <p><strong>5. 草を引き 洗濯干して 立ち座り 動く暮らしに 腸も整う</strong><br>Pulling weeds, hanging laundry,<br>standing up and sitting down.<br>In a life that keeps moving,<br>the gut finds its rhythm too.</p>
 <figure class="post__image"><img loading="lazy"  src="https://baneedksy.github.io/media/posts/542/P5.jpg" alt="" width="1536" height="1024" sizes="(max-width: 48em) 100vw, 768px" srcset="https://baneedksy.github.io/media/posts/542/responsive/P5-xs.webp 300w ,https://baneedksy.github.io/media/posts/542/responsive/P5-sm.webp 480w ,https://baneedksy.github.io/media/posts/542/responsive/P5-md.webp 768w"></figure>
 <p><strong>6. 楽させて くれる家電の ありがたさ 動かぬ腸に 保証切れかな</strong><br>How grateful we are<br>for gadgets that make life easy—<br>but for a gut that won't move,<br>the warranty's expired.</p>
@@ -64,7 +64,7 @@
 <p><strong>📝 Note on #7</strong><br><em>Kyakka unko (脚下雲固)</em> is a pun on the Zen phrase <em>kyakka shōko (脚下照顧 :<br>look at your own feet")</em> . <em>Unko</em> is Japanese for poop. The pun doesn't translate, so I'm leaving it in Japanese. 😄</p>
 </blockquote>
 <hr>
-<h4 data-heading="◆ ワシからの一言 / A Word from Me">◆ ワシからの一言 / A Word from Me</h4>
+<h3 data-heading="◆ ワシからの一言 / A Word from Me">◆ ワシからの一言 / A Word from Me</h3>
 <p>便利な暮らしは、ありがたいものじゃ。ただ、楽をした分だけ体を動かさんようになると、腸もつられてお休みしてしまうのかもしれん。とはいえ、これは「かもしれん」という、ワシの見立てにすぎん。家電が便秘の原因じゃと、はっきり言えるわけではないぞい。</p>
 <p>Modern life is wonderful. But if we move less because things are easier, maybe our gut also takes a rest. Of course, this is only my guess. I can't say that appliances cause constipation.</p>
 <p>要は、草をむしるも、洗濯物を干すも、家の中でちょいと立ったりしゃがんだりするだけで、よいのじゃ。男も女も、誰でもな。</p>
@@ -78,19 +78,19 @@
 </blockquote>
 <p>ちなみに、最近のSNSでは、外国語翻訳が流行っておるが、ここまで気の利いた翻訳をしてくれる時代は、まだ当分さきじゃろうのう……🍵</p>
 <hr>
-<h4 data-heading="免責 / Disclaimer">免責 / Disclaimer</h4>
+<h3 data-heading="免責 / Disclaimer">免責 / Disclaimer</h3>
 <p>この助言の制作において実際の医師からのお言葉は用いてはおらん。困ったら、本物の先生に相談してくれ。</p>
 <p>"No actual doctors were replaced in the making of this advice. Please consult a real one."</p>
 <hr>
-<h4 data-heading="余談 / By the Way">余談 / By the Way</h4>
+<h3 data-heading="余談 / By the Way">余談 / By the Way</h3>
 <p>ちなみに、最近は外国語翻訳が流行っておるが、洒落まで訳せる時代は、まだ先のようじゃのう。この記事の英語は、AIの助けを借りておるが、洒落の注釈は、ワシも一緒に頭をひねったのじゃ……🍵</p>
 <p>By the way, translation tools are popular these days, but puns still seem out of their reach. An AI helped with the English here, but I scratched my head over the pun notes too. 🍵</p>
 <hr>
-<h4 data-heading="締め / Ending">締め / Ending</h4>
+<h3 data-heading="締め / Ending">締め / Ending</h3>
 <p>おっと、一杯🍶/🍺/🍷やる前に、ワシはまた庭🏡に戻るとするかの。<br>皆さんも、ちょいと立ち座り🚶/🪑などいかがじゃ?</p>
 <p>Oops, before I start drinking 🍶/🍺/🍷, I think I'll go back to my garden 🏡.<br>Why not stand up and sit down🚶/🪑a few times yourself?</p>
 <hr>
-<h4 data-heading="参考文献 / References &amp; Notes for Curious Minds:">参考文献 / References &amp; Notes for Curious Minds:</h4>
+<h3 data-heading="参考文献 / References &amp; Notes for Curious Minds:">参考文献 / References &amp; Notes for Curious Minds:</h3>
 <blockquote>
 <ol>
 <li><strong>On squatting and defecation</strong><br>Sikirov D. "Comparison of Straining During Defecation in Three Positions: Results and Implications for Human Health." <em>Digestive Diseases and Sciences</em>, 2003; 48(7):1201–1205. PMID: 12870773.<br><em>Note: A small study of 28 healthy volunteers found that squatting reduced both the time and the perceived straining of defecation compared with sitting. It looked at toilet posture, not gardening, so the link to weeding is only a loose analogy.</em></li>
@@ -100,7 +100,7 @@
 </ol>
 </blockquote>
 <hr>
-<h4 data-heading="謝辞 / Acknowledgments">謝辞 / Acknowledgments</h4>
+<h3 data-heading="謝辞 / Acknowledgments">謝辞 / Acknowledgments</h3>
 <p>この落書き記事は、ワシの駄洒落と体験を核に、AIの助けを借りて仕上げたのじゃ。英訳の下書き、文献の確認、言い回しの磨き上げでは、Anthropic社のClaudeに世話になった。挿絵はGoogleのGemini, OpenAIのChatGPT, フリーフォント（にくまるフォント）の助けを借りておる。もし誤りが残っておれば、責任はワシにある。🙇</p>
 <p>This doodle of an article grew out of my own bad puns and experiences, and I finished it with a little help from AI. Claude (by Anthropic) assisted with English drafts and reference checking; the illustrations were made with Gemini (by Google) ChatGPT (by OpenAI), and Free font "にくまるフォント". Any remaining mistakes are mine. 🙇</p>
             ]]>
