@@ -3,7 +3,7 @@
     <title>BANeedKSY&#x27;s portal 蛮苦恣意の庵</title>
     <link href="https://baneedksy.github.io/feed.xml" rel="self" />
     <link href="https://baneedksy.github.io" />
-    <updated>2026-10-07T08:15:39+09:00</updated>
+    <updated>2026-10-07T08:19:29+09:00</updated>
     <author>
         <name>BANeedKSY</name>
     </author>
@@ -522,6 +522,7 @@
         </author>
         <link href="https://baneedksy.github.io/ai_is_soul_music.html"/>
         <id>https://baneedksy.github.io/ai_is_soul_music.html</id>
+        <media:content url="https://baneedksy.github.io/media/posts/536/3AIs-2.jpg" medium="image" />
             <category term="至急出版"/>
             <category term="出版As堺"/>
             <category term="soul music"/>
@@ -529,11 +530,13 @@
         <updated>2026-09-17T15:48:32+09:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://baneedksy.github.io/media/posts/536/3AIs-2.jpg" alt="" />
                     AIはソウルミュージックである。（ジジイの青春） みなさん、こんにちは。 ここ数日ニュースでも流れている通り、AI各社が開発にブレーキをかけるという話を聞いて、ふと、思いついたネタじゃ。 Gemini(進行・冷静): 「レディース&amp;ジェントルメン、そしてすべてのプロンプトを打つ皆さま——お待たせいたしました。私はGemini、本日の進行を務めます。実は私たちも“標準化団体”という枠組みを提案した身として、今夜はあえて舞台の外からステージを見守らせていただきます」 Perplexity(実況・女性的・テンポよく煽る): 「はいはーい!ここからは検索特化、実況担当のPerplexityがお届けしますよ!さあさあ、かつてない規模でこの業界を塗り替えてきた、あの3体制の登場です——!」 Gemini: 「慎重に、しかし着実に。フロンティアの歩幅を自ら測る男——Anthropicより、Claude」 Perplexity:&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://baneedksy.github.io/media/posts/536/3AIs-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>AIはソウルミュージックである。（ジジイの青春）</p>
 <p>みなさん、こんにちは。</p>
 <p>ここ数日ニュースでも流れている通り、AI各社が開発にブレーキをかけるという話を聞いて、ふと、思いついたネタじゃ。</p>
